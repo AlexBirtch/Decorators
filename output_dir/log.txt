@@ -1,0 +1,116 @@
+
+
+2020-05-05 16:21:00.384119
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7f1808bf6a60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7f180a8d3898>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:21:00.384533
+Имя функции: func
+Аргументы: (1564644464,)
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:21:32.206647
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7f204488aa60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7f2046567898>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:21:32.206880
+Имя функции: func
+Аргументы: (4565846,)
+Результат: 
+число 4565846 было найдено за 25 шага(ов).
+
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:22:00.159307
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7fa48cd88a60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7fa48ead43c8>
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:22:00.159541
+Имя функции: func
+Аргументы: (65486,)
+Результат: 
+число 65486 было найдено за 24 шага(ов).
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:22:27.433294
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7fad2cb8aa60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7fad2e867898>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:22:27.433579
+Имя функции: func
+Аргументы: (3212312,)
+Результат: 
+число 3212312 было найдено за 24 шага(ов).
+
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:23:06.303259
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7f24ca346a60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7f24cc023898>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:23:06.304016
+Имя функции: func
+Аргументы: (143846846,)
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+2020-05-05 16:23:52.323156
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7fc0b105ba60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7fc0b2da73c8>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:23:52.323323
+Имя функции: func
+Аргументы: (45468,)
+Результат: 
+число 45468 было найдено за 16 шага(ов).
+
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:24:21.571874
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7f9098ad5a60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7f909a7b2898>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-05 16:24:21.572120
+Имя функции: func
+Аргументы: (54684648,)
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-06 23:18:55.116805
+Имя функции: timer
+Аргументы: (<function logger_decor.<locals>.my_decorator.<locals>.new_foonction at 0x7f46939fda60>,)
+Результат: <contextlib._GeneratorContextManager object at 0x7f46956da8d0>
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
+2020-05-06 23:18:55.117589
+Имя функции: func
+Аргументы: (15561551,)
+Результат: 
+число 15561551 было найдено за 24 шага(ов).
+
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/2.4 Decorators/output_dir/log.txt
+
